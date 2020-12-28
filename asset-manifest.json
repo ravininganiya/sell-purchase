@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/sell-purchase/static/css/main.1d43e6a9.chunk.css",
+    "main.js": "/sell-purchase/static/js/main.83e98991.chunk.js",
+    "main.js.map": "/sell-purchase/static/js/main.83e98991.chunk.js.map",
+    "runtime-main.js": "/sell-purchase/static/js/runtime-main.02920ec2.js",
+    "runtime-main.js.map": "/sell-purchase/static/js/runtime-main.02920ec2.js.map",
+    "static/js/2.c2e13608.chunk.js": "/sell-purchase/static/js/2.c2e13608.chunk.js",
+    "static/js/2.c2e13608.chunk.js.map": "/sell-purchase/static/js/2.c2e13608.chunk.js.map",
+    "static/js/3.6c9c3722.chunk.js": "/sell-purchase/static/js/3.6c9c3722.chunk.js",
+    "static/js/3.6c9c3722.chunk.js.map": "/sell-purchase/static/js/3.6c9c3722.chunk.js.map",
+    "index.html": "/sell-purchase/index.html",
+    "static/css/main.1d43e6a9.chunk.css.map": "/sell-purchase/static/css/main.1d43e6a9.chunk.css.map",
+    "static/js/2.c2e13608.chunk.js.LICENSE.txt": "/sell-purchase/static/js/2.c2e13608.chunk.js.LICENSE.txt",
+    "static/media/1-img.d9dec910.png": "/sell-purchase/static/media/1-img.d9dec910.png",
+    "static/media/2-img.f4d29bb8.png": "/sell-purchase/static/media/2-img.f4d29bb8.png",
+    "static/media/3-img.bf179995.png": "/sell-purchase/static/media/3-img.bf179995.png",
+    "static/media/4-img.7dccebe3.png": "/sell-purchase/static/media/4-img.7dccebe3.png",
+    "static/media/5-img.6c955bfb.png": "/sell-purchase/static/media/5-img.6c955bfb.png",
+    "static/media/6-img.b07cacc1.png": "/sell-purchase/static/media/6-img.b07cacc1.png",
+    "static/media/Ads-img.9e6ae7a7.png": "/sell-purchase/static/media/Ads-img.9e6ae7a7.png",
+    "static/media/detailCar1.092a7366.png": "/sell-purchase/static/media/detailCar1.092a7366.png",
+    "static/media/detailCar2.4e8e3e0b.png": "/sell-purchase/static/media/detailCar2.4e8e3e0b.png",
+    "static/media/detailCar3.1cc51f39.png": "/sell-purchase/static/media/detailCar3.1cc51f39.png",
+    "static/media/detailCar4.b6654234.png": "/sell-purchase/static/media/detailCar4.b6654234.png",
+    "static/media/detailCar5.d5a50ca0.png": "/sell-purchase/static/media/detailCar5.d5a50ca0.png",
+    "static/media/detailCar6.2ef0fa83.png": "/sell-purchase/static/media/detailCar6.2ef0fa83.png",
+    "static/media/slider (1).97a05460.png": "/sell-purchase/static/media/slider (1).97a05460.png",
+    "static/media/slider (2).56c8d9c4.png": "/sell-purchase/static/media/slider (2).56c8d9c4.png",
+    "static/media/slider (3).f0bf141b.png": "/sell-purchase/static/media/slider (3).f0bf141b.png",
+    "static/media/slider (4).1008e177.png": "/sell-purchase/static/media/slider (4).1008e177.png",
+    "static/media/slider (5).8ea714e6.png": "/sell-purchase/static/media/slider (5).8ea714e6.png",
+    "static/media/slider (6).e5181002.png": "/sell-purchase/static/media/slider (6).e5181002.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02920ec2.js",
+    "static/js/2.c2e13608.chunk.js",
+    "static/css/main.1d43e6a9.chunk.css",
+    "static/js/main.83e98991.chunk.js"
+  ]
+}
