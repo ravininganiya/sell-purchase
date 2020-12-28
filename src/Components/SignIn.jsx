@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { logo } from '../assets/IconAsset';
-import NavbarMenu from './Home'
+// import { logo } from '../assests/IconAsset';
+import NavbarMenu from './Home/Navbar'
 import {
     Container,
     Card,
@@ -23,14 +23,14 @@ function SignIn() {
     return (
         <>
             <div className="">
-                <div className="">
+                {/* <div className=""> */}
                     <NavbarMenu />
-                </div>
-                <div className="row d-flex d-md-none text-center align-items-center">
+                {/* </div> */}
+                {/* <div className="row d-flex d-md-none text-center align-items-center">
                     <div className="col toggle_img_login_logo">
                         <Link to="/"><img className="img-fluid toggle_img_login_page" src={logo} /></Link>
                     </div>
-                </div>
+                </div> */}
             </div>
             <Container className="col-md-8 my-md-5 my-0" >
                 <Card className="mt-4 mt-md-0">

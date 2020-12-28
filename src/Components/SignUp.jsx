@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import { logo } from '../assets/IconAsset';
-import NavbarMenu from './Home'
+import { logo } from '../assests/IconAsset';
+import NavbarMenu from './Home/Navbar'
 import {
     Container,
     Card,

@@ -1,7 +1,7 @@
 import React from 'react';
 import {
     logo
-} from '../assets/IconAsset';
+} from '../assests/IconAsset';
 import { Link } from 'react-router-dom';
 // import Navbar from './Home/Navbar----old'
 // import Footer from './Footer/index'
@@ -9,16 +9,18 @@ import { Link } from 'react-router-dom';
 function Welcome(props) {
     return (
         <>
-            <Navbar />
+            {/* <Navbar /> */}
             <div className="container-fluid d-flex justify-content-center my-4">
                 <div className="modal-dailog">
                     <div className="col-sm-12 ">
                         <div className="modal-content">
                             <div className="col-md-12 mt-4 mb-4 d-flex justify-content-center">
-                                <img src={logo} alt="" className="img-fluid" />
+                                <Link to="/" className="" >
+                                    <img src={logo} alt="" className="img-fluid" />
+                                </Link>
                             </div>
                             <div className="col-md-12 d-flex justify-content-center">
-                                <p><b>Buy and sell quickly in Whole Kabul</b></p>
+                                <p><b>Buy and sell quickly in Whole India</b></p>
                             </div>
                             <div className="col-md-12 mb-2  d-flex justify-content-center " >
                                 <div className="rounded-pill p-1 " style={{ backgroundColor: "#405BA7", color: "white" }}>

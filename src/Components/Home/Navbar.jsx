@@ -41,7 +41,7 @@ function MenuNavbar() {
                             <div className="col-3 col-md-4 d-md-flex d-none text-center Navbar-row-items">
                                 <span className="far fa-user-circle Navbar-row-icons">&nbsp;</span>
                                 <b className="Navbar-row-login-button-link">
-                                    <Link to="/sign-in">Login</Link>
+                                    <Link to="/welcome">Login</Link>
                                 </b>
                             </div>
                             <div className="col-4 col-md-3 d-md-flex d-none text-center Navbar-row-items-sell p-0">
