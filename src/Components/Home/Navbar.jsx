@@ -9,7 +9,7 @@ function MenuNavbar() {
         <>
             <div className="container">
                 <div className="row navbar_nav_row mt-2">
-                    <div className="col-lg-3 col-4 col-md-3 d-md-flex d-none text-center m-0">
+                    <div className="col-lg-3 col-4 col-md-3 d-md-flex text-center m-0">
                         <Link to="/">
                             <img className="img-fluid toggle_img" alt="logo" src={logo} />
                         </Link>

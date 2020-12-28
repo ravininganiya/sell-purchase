@@ -1,6 +1,6 @@
 import React from 'react';
 import './assests/css/style.css';
-// import '../assets/css/responsive.css';
+import './assests/css/responsive.css';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import { Switch, Route } from 'react-router-dom';
 import Home from './Components/Home/index';
